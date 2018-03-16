@@ -8,6 +8,7 @@
 1. [数组深拷贝和浅拷贝](https://github.com/zhangxinmei/summary/issues/2)
 
 ## CSS
+1. [使用CSS百分比padding来让固定比例的图片实现自适应](https://github.com/zhangxinmei/summary/issues/4)
 
 ## 移动端
 1. [关于移动端的几点总结](https://github.com/zhangxinmei/summary/issues/3)
