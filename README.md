@@ -15,6 +15,6 @@
 3. [CSS绝对定位absolute](https://github.com/zhangxinmei/summary/issues/8)
 4. [CSS margin重叠问题](https://github.com/zhangxinmei/summary/issues/9)
 5. [块格式化上下文（BFC）](https://github.com/zhangxinmei/summary/issues/10)
-6. [块格式化上下文（BFC）](https://github.com/zhangxinmei/summary/issues/12)
+6. [HTML文档头部](https://github.com/zhangxinmei/summary/issues/12)
 ## 移动端
 1. [关于移动端的几点总结](https://github.com/zhangxinmei/summary/issues/3)
