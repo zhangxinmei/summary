@@ -16,5 +16,6 @@
 4. [CSS margin重叠问题](https://github.com/zhangxinmei/summary/issues/9)
 5. [块格式化上下文（BFC）](https://github.com/zhangxinmei/summary/issues/10)
 6. [HTML文档头部](https://github.com/zhangxinmei/summary/issues/12)
+7. [CSS选择器](https://github.com/zhangxinmei/summary/issues/12)
 ## 移动端
 1. [关于移动端的几点总结](https://github.com/zhangxinmei/summary/issues/3)
