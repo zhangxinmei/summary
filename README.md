@@ -17,5 +17,6 @@
 5. [块格式化上下文（BFC）](https://github.com/zhangxinmei/summary/issues/10)
 6. [HTML文档头部](https://github.com/zhangxinmei/summary/issues/12)
 7. [CSS选择器](https://github.com/zhangxinmei/summary/issues/11)
+7. [CSS实现背景图片全屏显示](https://github.com/zhangxinmei/summary/issues/13)
 ## 移动端
 1. [关于移动端的几点总结](https://github.com/zhangxinmei/summary/issues/3)
