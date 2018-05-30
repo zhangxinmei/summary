@@ -1,4 +1,4 @@
-# summary
+# summary（个人总结、博客）
 
 >在学习前端的过程中遇到的一些问题以及总结
 
@@ -19,5 +19,9 @@
 7. [CSS选择器](https://github.com/zhangxinmei/summary/issues/11)
 8. [CSS实现背景图片全屏显示](https://github.com/zhangxinmei/summary/issues/13)
 9. [line-height](https://github.com/zhangxinmei/summary/issues/14)
+9. [sticky footer布局](https://github.com/zhangxinmei/summary/issues/16)
 ## 移动端
 1. [关于移动端的几点总结](https://github.com/zhangxinmei/summary/issues/3)
+
+## 常用模块
+1. [提示框](https://github.com/zhangxinmei/summary/issues/15)
