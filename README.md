@@ -25,3 +25,4 @@
 
 ## 常用模块
 1. [提示框](https://github.com/zhangxinmei/summary/issues/15)
+1. [loading页面](https://github.com/zhangxinmei/summary/issues/17)
