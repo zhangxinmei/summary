@@ -19,7 +19,8 @@
 7. [CSS选择器](https://github.com/zhangxinmei/summary/issues/11)
 8. [CSS实现背景图片全屏显示](https://github.com/zhangxinmei/summary/issues/13)
 9. [line-height](https://github.com/zhangxinmei/summary/issues/14)
-9. [sticky footer布局](https://github.com/zhangxinmei/summary/issues/16)
+10. [sticky footer布局](https://github.com/zhangxinmei/summary/issues/16)
+11. [sticky footer布局](https://github.com/zhangxinmei/summary/issues/18)
 ## 移动端
 1. [关于移动端的几点总结](https://github.com/zhangxinmei/summary/issues/3)
 
