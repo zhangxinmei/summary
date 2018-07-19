@@ -27,4 +27,9 @@
 
 ## 常用模块
 1. [提示框](https://github.com/zhangxinmei/summary/issues/15)
-1. [loading页面](https://github.com/zhangxinmei/summary/issues/17)
+2. [loading页面](https://github.com/zhangxinmei/summary/issues/17)
+
+
+## 开发规范
+1. [源代码管理工具Git](https://github.com/zhangxinmei/summary/issues/15)
+
