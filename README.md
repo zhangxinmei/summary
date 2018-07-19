@@ -31,5 +31,5 @@
 
 
 ## 开发规范
-1. [源代码管理工具Git](https://github.com/zhangxinmei/summary/issues/15)
+1. [源代码管理工具Git](https://github.com/zhangxinmei/summary/issues/20)
 
