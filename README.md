@@ -21,7 +21,8 @@
 9. [line-height](https://github.com/zhangxinmei/summary/issues/14)
 10. [sticky footer布局](https://github.com/zhangxinmei/summary/issues/16)
 11. [nth-child选择器](https://github.com/zhangxinmei/summary/issues/18)
-11. [pointer-events](https://github.com/zhangxinmei/summary/issues/21)
+12. [pointer-events](https://github.com/zhangxinmei/summary/issues/21)
+13. [CSS空格处理](https://github.com/zhangxinmei/summary/issues/22)
 ## 移动端
 1. [关于移动端的几点总结](https://github.com/zhangxinmei/summary/issues/3)
 2. [解决安卓手机输入框被输入键盘遮住的问题](https://github.com/zhangxinmei/summary/issues/19)
