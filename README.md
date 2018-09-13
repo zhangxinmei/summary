@@ -23,6 +23,7 @@
 11. [nth-child选择器](https://github.com/zhangxinmei/summary/issues/18)
 12. [pointer-events](https://github.com/zhangxinmei/summary/issues/21)
 13. [white-space空格处理](https://github.com/zhangxinmei/summary/issues/22)
+14. [CSS 实现单行文本溢出显示省略号](https://github.com/zhangxinmei/summary/issues/23)
 ## 移动端
 1. [关于移动端的几点总结](https://github.com/zhangxinmei/summary/issues/3)
 2. [解决安卓手机输入框被输入键盘遮住的问题](https://github.com/zhangxinmei/summary/issues/19)
