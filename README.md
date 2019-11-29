@@ -8,6 +8,7 @@
 1. [JS基本类型和引用类型](https://github.com/zhangxinmei/summary/issues/5)
 2. [数组深拷贝和浅拷贝](https://github.com/zhangxinmei/summary/issues/2)
 3. [JS事件队列](https://github.com/zhangxinmei/summary/issues/6)
+4. [J学习资料](https://zh.javascript.info/)
 
 ## CSS
 1. [使用CSS百分比padding来让固定比例的图片实现自适应](https://github.com/zhangxinmei/summary/issues/4)
